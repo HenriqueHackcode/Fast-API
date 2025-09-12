@@ -4,4 +4,4 @@
 
 » Todas a bibliotecas se encontram no arquivo "requirements.txt"
 
-Link Imagen completo: https://www.flickr.com/photos/203501536@N03/54782435459/in/dateposted-public/
+Link Imagen completo: https://photos.app.goo.gl/ZWjkimwgRR62zhwE6
