@@ -5,4 +5,4 @@
 
 » Todas a bibliotecas se encontram no arquivo "requirements.txt"
 
-Link Imagen completa FastAPI: https://photos.app.goo.gl/ZWjkimwgRR62zhwE6
+Link: Layout FastAPI: https://photos.app.goo.gl/ZWjkimwgRR62zhwE6
